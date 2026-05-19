@@ -1,3 +1,5 @@
+🌐 For English [Click Here](README_EN.md)
+
 # 🍕 Pizza Satış Raporu - Power BI Portfolyo Projesi
 
 Bu proje, bir pizza restoranının satış verilerini analiz etmek ve temel iş metriklerini takip etmek amacıyla geliştirdiğim bir **Power BI** çalışmasıdır. Veri analitiği portfolyom için hazırladığım bu raporda, ham verileri temizleyerek anlaşılır görsellere dönüştürmeyi amaçladım.
