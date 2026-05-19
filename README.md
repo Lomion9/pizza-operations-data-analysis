@@ -7,12 +7,12 @@ Bu proje, bir pizza restoranının satış verilerini analiz etmek ve temel iş 
 ## 📊 Ekran Görüntüleri (Dashboard Screenshots)
 
 ### 1. Satış Performansı Sayfası
-![Dashboard](Pizza1.png)
+![Dashboard](Pizz1.png)
 
 ### 2. Operasyon ve Yoğunluk Analizi Sayfası
-![Dashboard](Pizza2.png)
+![Dashboard](Pizz2.png)
 
-![Dashboard](Pizza3.png)
+![Dashboard](Pizz3.png)
 ---
 
 ## 🎯 Projenin Amacı ve Odak Noktaları
