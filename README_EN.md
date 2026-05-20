@@ -10,12 +10,12 @@ Created as part of my data analytics portfolio, this project focuses on transfor
 ## 📊 Dashboard Screenshots
 
 ### 1. Sales Performance Page
-![Dashboard](Pizz1.png)
+![Dashboard](Pizza1.png)
 
 ### 2. Operations & Trend Analysis Page
-![Dashboard](Pizz2.png)
+![Dashboard](Pizza2.png)
 
-![Dashboard](Pizz3.png)
+![Dashboard](Pizza3.png)
 
 ---
 
